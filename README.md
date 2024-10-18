@@ -20,7 +20,7 @@ Aplikasi Real Estate Berbasis Web Yang Di Bangun Menggunakan Laravel 10 Dengan T
 Clone Projek
 
 ```bash
-  git clone https://github.com/maleee14/Lacasa.git
+  git clone https://github.com/maleee14/LaCasa.git
 ```
 
 Copy .env.example menjadi .env
