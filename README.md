@@ -3,7 +3,7 @@ Aplikasi Real Estate Berbasis Web Yang Di Bangun Menggunakan Laravel 10 Dengan T
 
 ## Features
 -   Registrasi serta Autentikasi User
--   Management Kategori
+-   Management Hometype/Kategori
 -   Management Properti
 -   Management Gallery
 -   Management Admin
